@@ -1,1 +1,3 @@
-# currencies_converter
+# Currencies converter
+
+Simple currencies converter in JS
